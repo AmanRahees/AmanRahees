@@ -1,4 +1,4 @@
-![Typing SVG]Hi👋,+I'm+Aman+Rahees!
+<h3 align="center text-warning">Hi👋,I'm Aman Rahees</h3>
 
 <h3 align="center">Enthusiastic Data Scientist from India</h3>
 
