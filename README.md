@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=blue&size=30&lines=Hi👋,+I'm+Anand+Agrawal!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=blue&size=30&lines=Hi👋,+I'm+Aman+Rahees!)](https://git.io/typing-svg)
 
 <h3 align="center">Enthusiastic Data Scientist from India</h3>
 
