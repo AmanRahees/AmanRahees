@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arvo&color=blue&size=30&lines=Hi👋,+I'm+Aman+Rahees!)
+![Typing SVG]Hi👋,+I'm+Aman+Rahees!
 
 <h3 align="center">Enthusiastic Data Scientist from India</h3>
 
